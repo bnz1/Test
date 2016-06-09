@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-  <!DOCTYPE foo [  
-   <!ELEMENT foo ANY >
-   <!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+  
 <channel>
   <title>W3Schools Home Page</title>
-  <link>http://www.w3schools.com</link>
+  <link>http://asdfasdfasdf</link>
   <description>Free web building tutorials</description>
   <item>
     <title>RSS Tutorial</title>
-    <link>http://www.w3schools.com/xml/xml_rss.asp</link>
+    <link>http://www.w3schools.com/xdl/xml_rss.asp</link>
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
