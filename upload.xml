@@ -3,7 +3,7 @@
 	<!ENTITY include SYSTEM “file=/etc/passwd">
 ]>
 <request>
-	<description>
+	<description
 	&include;
 	</description>
 </request>
