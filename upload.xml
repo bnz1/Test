@@ -13,14 +13,9 @@
     <description>New RSS tutorial on W3Schools</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
+    <title>&xxe;</title>
     <link>http://morerandom/xml</link>
     <description>New XML tutorial on W3Schools</description>
-  </item>
-  <item>
-    <title>&xxe;</title>
-    <link>http://example.com</link>
-    <description>a post</description>
   </item>
 </channel>
 
